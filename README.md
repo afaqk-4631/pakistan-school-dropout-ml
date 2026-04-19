@@ -105,7 +105,7 @@ The notebook runs on **Google Colab** and downloads data directly from a shared 
 
 ### Step 1: Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/pakistan-school-dropout-ml/blob/main/notebooks/MICS_pakistan_school_dropouts_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afaqk-4631/pakistan-school-dropout-ml/blob/main/notebooks/MICS_pakistan_school_dropouts_notebook.ipynb)
 
 ### Step 2: Get the Data
 
